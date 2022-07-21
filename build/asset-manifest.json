@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-sayac/static/css/main.de40887b.css",
+    "main.js": "/react-sayac/static/js/main.07fdc2d3.js",
+    "static/media/counterapp-background.jpg": "/react-sayac/static/media/counterapp-background.d767ef43e0ccdc754cb8.jpg",
+    "index.html": "/react-sayac/index.html",
+    "main.de40887b.css.map": "/react-sayac/static/css/main.de40887b.css.map",
+    "main.07fdc2d3.js.map": "/react-sayac/static/js/main.07fdc2d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de40887b.css",
+    "static/js/main.07fdc2d3.js"
+  ]
+}
